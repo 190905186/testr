@@ -1,3 +1,1 @@
-hai who are you
-i am fine
-what about you
+hai who are you am fine what about you
